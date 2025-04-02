@@ -47,7 +47,7 @@ public class Principal {
 
         System.out.println("=== ORDEM DE PAGAMENTO POR BANCO ===\n");
 
-        String[] nomesBancos = {"Banco A", "Banco B"};
+        String[] nomesBancos = {"Banco do Brasil", "Itaú"};
         double[] totais = new double[nomesBancos.length];
 
         for (int i = 0; i < funcionarios.length; i++) {

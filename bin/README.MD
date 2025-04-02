@@ -37,17 +37,5 @@ O projeto está estruturado com classes separadas para cada conceito do sistema:
 
 ---
 
-## 📁 Desenvolvido por
-- Lucas Rodor
-    Linkedin: [Lucas Rodor](https://www.linkedin.com/in/lucasrodor/)
-    Github: [Lucas Rodor](https://github.com/lucasrodor)
-- Luigi Ajello
-    Linkedin: [Luigi Ajello](www.linkedin.com/in/luigi-pedroso-ajello-346934278/)
-    Github: [Luigi Ajello](https://github.com/LuigiAjello)
-- Pedro Arthur
-    Linkedin: [Pedro Arthur](https://www.linkedin.com/in/pedro-arthur-da-luz-miranda-4a94a5301/)
-    Github: [Pedro Arthur](https://github.com/pedrocadaluz)
-
-
-
+## 📁 Estrutura esperada da pasta
 
